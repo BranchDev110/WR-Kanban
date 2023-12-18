@@ -20,7 +20,6 @@ const Image = ({ src }: any) => {
       <img
         src={src}
         className="rounded-xl"
-        alt="Task Image"
         onLoad={handleLoaded}
       />
     </>

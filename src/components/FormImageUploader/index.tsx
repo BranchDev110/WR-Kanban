@@ -1,4 +1,3 @@
-import { TrashIcon } from "../../icons";
 import { FormImageUploaderProps } from "../../types";
 
 const FormImageUploader = ({
@@ -50,7 +49,7 @@ const FormImageUploader = ({
               </>
             ) : (
               <div className="flex flex-row space-x-2 items-center">
-                <img src={src} className="rounded-xl left-0 top-0 w-28 h-28" alt="Task Image"/>
+                <img src={src} className="rounded-xl left-0 top-0 w-28 h-28"/>
                 <div className="relative">
                   <input
                     name="fileName"
