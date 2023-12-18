@@ -49,7 +49,7 @@ const FormImageUploader = ({
               </>
             ) : (
               <div className="flex flex-row space-x-2 items-center">
-                <img src={src} className="rounded-xl left-0 top-0 w-28 h-28"/>
+                <img src={src} className="rounded-xl left-0 top-0 w-28 h-28" alt="Uploaded task img"/>
                 <div className="relative">
                   <input
                     name="fileName"

@@ -21,6 +21,7 @@ const Image = ({ src }: any) => {
         src={src}
         className="rounded-xl"
         onLoad={handleLoaded}
+        alt="img source"
       />
     </>
   );
