@@ -163,7 +163,7 @@ const Home = () => {
   };
 
   return (
-    <div className="bg-gray-100 w-full h-full min-h-screen flex dark:bg-slate-700">
+    <div className="relative bg-gray-100 w-full h-full min-h-screen flex dark:bg-slate-700">
       <SideBar />
       <div className="content flex-1">
         <Header />

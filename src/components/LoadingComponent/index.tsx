@@ -1,6 +1,6 @@
 const LoadingComponent = () => {
   return (
-    <div className="absolute left-0 top-0 w-full h-[100%] ">
+    <div className="absolute left-0 top-0 w-full h-full">
       <div className="bg-gray-700 opacity-60 w-full h-full"></div>
       <div
         role="status"
