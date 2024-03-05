@@ -166,7 +166,7 @@ React Router, Tailwind CSS, Redux-Toolkit, Redux Persist, Firebase...
 
 1. Clone the readme-ai repository:
 ```sh
-git clone https://github.com/WaterRedLover0110/TaskManagementApp.git
+git clone https://github.com/BranchDev110/WR-Kanban.git
 ```
 
 2. Change to the project directory:
