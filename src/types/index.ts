@@ -115,3 +115,7 @@ export interface KanbanUserTypes {
   uid: string;
   email: string;
 }
+
+export interface AddTaskModalProps {
+  handleCloseModal: () => {}
+}
